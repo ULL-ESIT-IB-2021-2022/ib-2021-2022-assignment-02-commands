@@ -48,9 +48,12 @@ Pruebe en su máquina virtual los comandos que estudie en el tutorial.
     cd practicas
     git clone git@github.com:ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands.git
     ```
-    Si lo prefiere, puede utilizar [`https`](https://es.wikipedia.org/wiki/Protocolo_seguro_de_transferencia_de_hipertexto) para clonar el repositorio. Esto es:
+    Nótese que esto realiza la clonación del repositorio empleando `ssh`. Si lo prefiere, puede utilizar [`https`](https://es.wikipedia.org/wiki/Protocolo_seguro_de_transferencia_de_hipertexto) para clonar el repositorio. Esto es:
     ```
-    https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands.git
+    cd ~
+    mkdir practicas
+    cd practicas
+    git clone https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands.git
     ```
 
 2. Entre en el directorio de trabajo (`ib-2021-2022-assignment-02-commands`). Encontrará en él el fichero `ProgrammingJoke.txt`. ¿Cuál es el chiste? Busque cualquier otro chiste famoso de programadores y añada el texto del nuevo chiste a continuación de éste.
