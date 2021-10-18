@@ -1,5 +1,7 @@
 # Práctica 02. Comandos básicos en el Sistema Operativo Linux
 
+# Factor de ponderación: 5
+
 ### Objetivos
 Los objetivos de esta práctica son que el alumnado:
 * Sea capaz de conectarse a la máquina virtual (VM) disponible a través de la infraestructura [IaaS](https://es.wikipedia.org/wiki/Infraestructura_como_servicio_(IaaS)) empleada en la asignatura
